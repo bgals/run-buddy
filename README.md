@@ -1,4 +1,4 @@
-# Run Buddy
+# Run Buddy, Inc
 
 ## Purpose
 A website that offers fitness training sevices.
@@ -8,7 +8,9 @@ A website that offers fitness training sevices.
 * CSS
 
 ## Website
-https://bgals.hithub.io/run-buddy
+https://bgals.github.io/run-buddy
 
 ## Contribution
 Made with <3 by Beth Gallen
+
+### &copy 2019 Run Buddy, Inc
