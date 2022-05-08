@@ -83,8 +83,8 @@ section {
     border-width: 3px;
     border-color: #024e76;
     position: absolute;
-    bottom: 120px;
-    right: 140px;
+    bottom: 50px;
+    right: 120px;
 }
 .hero-form p {
     margin: 5px 0 15px 0;
