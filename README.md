@@ -13,4 +13,4 @@ https://bgals.github.io/run-buddy
 ## Contribution
 Made with <3 by Beth Gallen
 
-### &copy 2019 Run Buddy, Inc
+###  ©️2019 Run Buddy, Inc
